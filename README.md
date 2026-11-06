@@ -13,3 +13,4 @@ Mahmoud Osama Jebril
 
 ## How to Run
 Open index.html in a web browser.
+The contact form is a demo and does not send messages.
